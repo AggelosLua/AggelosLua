@@ -10,8 +10,7 @@
 
 
 
-<a href="https://discord.gg/https://discord.gg/hkS26nwEQ7" target="blank"><img align="center" alt="https://discord.gg/hkS26nwEQ7" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
