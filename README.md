@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js And Lua**
+- 🌱 I’m currently learning **Node.js Luau and Python**
 
 - 📄 Projects [https://www.summerserverside.cf/](https://www.summerserverside.cf/)
 
